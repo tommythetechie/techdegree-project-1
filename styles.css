@@ -70,7 +70,7 @@ header .profile-image {
   width: 150px;
   height: 150px;
   border-radius: 50%;
-  border: 3px solid white;
+  border: 3px solid hotpink;
   transition: all .5s;
 }
 header .profile-image:hover {
@@ -116,6 +116,11 @@ header .profile-image:hover {
 }
 .wide-card:hover {
   border-color: hotpink;
+}
+
+.hobbies-pic {
+  border-radius: 12px;
+  
 }
 /*end of custom styles*/
 
