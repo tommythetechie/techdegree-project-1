@@ -102,6 +102,23 @@ header .profile-image:hover {
   border-color: #ff99ff;
 }
 
+/*custom styles*/
+.wide-card {
+  margin: 30px;
+  padding: 20px 40px 40px;
+  max-width: 500px;
+  text-align: left;
+  background: #fff;
+  border-bottom: 4px solid #ccc;
+  border-radius: 6px;
+  transition: all .5s;
+  min-width: 860px;
+}
+.wide-card:hover {
+  border-color: #ff99ff;
+}
+/*end of custom styles*/
+
 ul.skills {
   padding: 0;
   text-align: center;
