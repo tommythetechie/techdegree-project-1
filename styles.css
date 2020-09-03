@@ -95,11 +95,11 @@ header .profile-image:hover {
   text-align: left;
   background: #fff;
   border-bottom: 4px solid #ccc;
-  border-radius: 6px;
-  transition: all .5s;
+  border-radius: 12px;
+  transition: all .8s;
 }
 .card:hover {
-  border-color: #ff99ff;
+  border-color: hotpink;
 }
 
 /*custom styles*/
@@ -110,12 +110,12 @@ header .profile-image:hover {
   text-align: left;
   background: #fff;
   border-bottom: 4px solid #ccc;
-  border-radius: 6px;
-  transition: all .5s;
+  border-radius: 12px;
+  transition: all .8s;
   min-width: 860px;
 }
 .wide-card:hover {
-  border-color: #ff99ff;
+  border-color: hotpink;
 }
 /*end of custom styles*/
 
